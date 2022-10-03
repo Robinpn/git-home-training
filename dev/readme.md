@@ -1,3 +1,3 @@
 # An interesting title!
 
-<img src="https://giphy.com/gifs/5CgzqBtjbgJ7a" width="100%">
+<img src="https://media0.giphy.com/media/5CgzqBtjbgJ7a/giphy.gif?" width="100%">
